@@ -1,2 +1,42 @@
-# ps-amazon-website
-This is a simple Amazon Clone website built using HTML and CSS. It replicates the basic layout and design of the Amazon homepage, including navigation bar, product sections, and responsive UI.
+ # 🛒 Amazon Clone Website
+
+A simple and responsive Amazon Clone built using HTML and CSS.  
+This project recreates the basic layout and design of the Amazon homepage with a clean and user-friendly interface.
+
+---
+
+## 🚀 Live Demo
+🔗 https://ps-amazon-website.netlify.app
+
+---
+
+## ✨ Features
+- 🛒 Amazon-like homepage design  
+- 📱 Responsive layout (Mobile + Desktop)  
+- 🧭 Navigation bar with search and menu  
+- 🛍️ Product showcase sections  
+- 🎨 Clean and modern UI  
+
+---
+
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+
+---
+
+
+## 👨‍💻 Author
+**Piyush Soni**  
+💻 CSE Student | Web Developer  
+
+---
+
+## 📌 About Project
+This project was created to practice frontend development skills by replicating the design of a popular e-commerce website.  
+It helps in understanding layout design, styling, and responsiveness.
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
+
