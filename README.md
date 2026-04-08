@@ -9,6 +9,7 @@ This project recreates the basic layout and design of the Amazon homepage with a
 🔗 https://ps-amazon-website.netlify.app
 
 ---
+## preview
 ![amazon](https://github.com/user-attachments/assets/1d71c2e3-25fe-4df0-952e-126936f75351)
 
 ---
