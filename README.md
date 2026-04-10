@@ -23,8 +23,8 @@ This project recreates the basic layout and design of the Amazon homepage with a
 ---
 
 ## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
+- HTML 
+- CSS 
 
 ---
 
